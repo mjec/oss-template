@@ -6,6 +6,8 @@ Development happens on GitHub, so you can contribute by opening an issue or fili
 
 Please open an issue before spending a lot of time on a pull request, especially if you're planning to implement a new feature, or make significant changes to code structure. Those things should be discussed before a PR is opened.
 
+Generally, **any contribution is better than no contribution**. You don't need to follow all the processes outlined here or read everything before contributing. Human judgement is more important than the system, and so please rely on that rather than being a stickler for what's described in this document or the PR/issue templates.
+
 ## Commit messages
 
 Always write a clear log message for your commits. One-line messages are fine for small changes, but bigger changes should explain _why_ a change is being made, and anything notable about the change itself.
